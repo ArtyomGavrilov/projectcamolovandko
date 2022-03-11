@@ -38,3 +38,11 @@ header {
     background-color: #0776A0;
     padding: 25px;
 }
+
+h1 {
+    text-align: center;
+}
+
+.gallery {
+    text-align: center;
+}
